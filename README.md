@@ -57,7 +57,7 @@ Proyek ini dilisensikan di bawah Lisensi MIT.
 
 ## Hak Cipta
 
-Copyright (©) 2025 Naufal Aufaa Abyan
+Copyright © 2025 Naufal Aufaa Abyan
 
 ## Kontribusi
 
