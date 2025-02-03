@@ -55,6 +55,10 @@ Kode ini mungkin tidak sepenuhnya akurat, jadi tolong periksa lagi data follower
 
 Proyek ini dilisensikan di bawah Lisensi MIT.
 
+## Hak Cipta
+
+Copyright (©) 2025 Naufal Aufaa Abyan
+
 ## Kontribusi
 
 Kontribusi sangat diterima! Jika Anda memiliki saran atau perbaikan, silakan buat pull request atau buka issue.
