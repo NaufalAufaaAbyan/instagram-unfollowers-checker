@@ -64,7 +64,7 @@ Copyright © 2025 Naufal Aufaa Abyan
 Kontribusi sangat diterima! Jika Anda memiliki saran atau perbaikan, silakan buat pull request atau buka issue.
 
 
-============================================================================
+===========================================================================
 
 
 # Instagram Unfollowers Checker
